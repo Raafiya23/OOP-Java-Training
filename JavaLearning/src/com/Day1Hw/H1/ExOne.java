@@ -1,4 +1,4 @@
-package Day1Hw.H1;
+package com.Day1Hw.H1;
 
 public class ExOne {
     public static void main(String[] args){

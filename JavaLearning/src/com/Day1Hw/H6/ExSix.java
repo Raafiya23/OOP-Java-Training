@@ -1,4 +1,4 @@
-package Day1Hw.H6;
+package com.Day1Hw.H6;
 
 public class ExSix {
     public static void main(String[] args){

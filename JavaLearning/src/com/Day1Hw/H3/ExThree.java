@@ -1,4 +1,4 @@
-package Day1Hw.H3;
+package com.Day1Hw.H3;
 
 public class ExThree {
     public static void main(String[] args){

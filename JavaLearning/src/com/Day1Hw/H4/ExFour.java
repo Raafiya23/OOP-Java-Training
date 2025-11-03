@@ -1,4 +1,4 @@
-package Day1Hw.H4;
+package com.Day1Hw.H4;
 
 import java.util.Scanner;
 

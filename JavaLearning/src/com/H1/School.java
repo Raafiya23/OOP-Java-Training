@@ -1,4 +1,4 @@
-package Day4Hw.H1;
+package com.H1;
 
 class Person{
     String name;
