@@ -6,6 +6,12 @@ interface Operation{
     int execute(int a, int b);
 }
 
+//class Child implements Operation{
+//    public int execute(int a,int b){
+//        return a+b;
+//    }
+//}
+
 public class Java8FeaturesDemo {
     public static void main(String[] args){
         Operation add = (a,b) -> a+b;
