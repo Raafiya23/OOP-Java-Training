@@ -11,7 +11,7 @@ public class Library {
 
     public Library() {
         try {
-            logWriter = new FileWriter("library_log.txt", true);
+            logWriter = new FileWriter("com/MiniProject_LibraryManagement/library_log.txt", true);
         } catch (IOException e) {
             System.out.println("Log file could not be created.");
         }

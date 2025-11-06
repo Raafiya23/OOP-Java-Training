@@ -1,0 +1,4 @@
+Added Book: B101 | The Alchemist by Paulo Coelho [Available]
+Added Book: B102 | 1984 by George Orwell [Available]
+Added Book: B103 | Clean Code by Robert C. Martin [Available]
+Issued Book: B101 | The Alchemist by Paulo Coelho [Issued] to M001 - Raafiya
