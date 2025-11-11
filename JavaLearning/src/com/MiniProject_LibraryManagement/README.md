@@ -77,7 +77,7 @@ Main class that runs the menu-driven interface.
 4. Calculate Late Fee
 5. Exit
 
-**Example Output:**
+**Example Output:**<br>
 ===== Library Menu =====
 
 Display Books
