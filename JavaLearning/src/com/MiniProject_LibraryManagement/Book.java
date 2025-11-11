@@ -20,7 +20,8 @@ public class Book {
         return title;
     }
     public String getAuthor() {
-        return author; }
+        return author;
+    }
     public boolean isIssued() {
         return isIssued;
     }
