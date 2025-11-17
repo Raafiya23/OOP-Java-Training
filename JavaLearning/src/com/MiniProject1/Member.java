@@ -1,4 +1,4 @@
-package com.MiniProject_LibraryManagement;
+package com.MiniProject1;
 
 public class Member {
     private String memberId;

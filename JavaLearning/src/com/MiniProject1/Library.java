@@ -1,4 +1,4 @@
-package com.MiniProject_LibraryManagement;
+package com.MiniProject1;
 
 import java.io.FileWriter;
 import java.io.IOException;

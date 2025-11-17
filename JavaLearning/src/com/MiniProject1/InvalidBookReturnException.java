@@ -1,4 +1,4 @@
-package com.MiniProject_LibraryManagement;
+package com.MiniProject1;
 
 public class InvalidBookReturnException extends Exception{
     public InvalidBookReturnException(String message) {
