@@ -79,12 +79,12 @@ Allow the program to wait for and collect results from each thread.
 Ensures safe merging of keyword counts from multiple threads without data corruption.
 
 ## Example Output
-Processing logs with 3 threads...
-Thread pool-1-thread-1 processed Log 1
-Thread pool-1-thread-2 processed Log 2
-Thread pool-1-thread-3 processed Log 3
+Processing logs with 3 threads...<br>
+Thread pool-1-thread-1 processed Log 1<br>
+Thread pool-1-thread-2 processed Log 2<br>
+Thread pool-1-thread-3 processed Log 3<br>
 
-Aggregated Keyword Counts:
+Aggregated Keyword Counts:<br>
 {error=3, load=2, success=1}
 
 Total Execution Time: 14 ms
